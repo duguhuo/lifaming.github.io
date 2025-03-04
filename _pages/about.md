@@ -34,9 +34,7 @@ redirect_from:
 
 \begin{document}
 
-\begin{center}
-    {\LARGE \textbf{个人简介}}\\[2mm]
-\end{center}
+{\centering \LARGE \textbf{个人简介}\par\vspace{2mm}}
 
 \noindent \textbf{博士研究生导师、硕士研究生导师} \\
 中国计算机协会数据库专委会执行委员 \\
@@ -90,4 +88,3 @@ redirect_from:
 \noindent 本科生课程：数据结构
 
 \end{document}
-
