@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## ➤ 个人简介  
 **博士研究生导师**｜**硕士研究生导师**  
 中国计算机协会数据库专委会执行委员  
